@@ -1,0 +1,30 @@
+#root {
+  display: flex; 
+  justify-content: center;
+  align-items: center;
+}
+
+.app {
+  width: 500px;
+  height: 600px;
+  display: flex;
+  margin-top: 150px;
+  background-color: lightblue;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid black;
+  border-radius: 50px;
+}
+
+#standard-textarea{
+  width: 400px;
+}
+
+#loading-button {
+  width: 150px;
+  margin-left: 120px;
+}
+
+.h2 {
+  margin-bottom: 50px;
+}

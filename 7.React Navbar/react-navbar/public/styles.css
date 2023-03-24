@@ -1,0 +1,32 @@
+.navbar {
+    background-color: #0d60b9 !important; 
+}
+
+.container-fluid {
+    margin: auto 15px;
+}
+
+.navbar a {
+    font-size: 20px;
+}
+
+.nav-link {
+    margin-right: 10px;
+}
+.navbar-nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn {
+    font-size: 20px;
+    width: 150px;
+    margin-right: 15px;
+}
+
+.navbar-toggler {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

@@ -1,0 +1,71 @@
+body {
+    background-image: linear-gradient(120deg, #dce196 0%, #a6ab1b 100%);
+    
+}
+
+.app {
+    margin-top: 100px;
+}
+
+#outlined-search {
+    width: 300px;
+}
+
+h1 {    
+    font-family: 'Caveat', cursive;
+    font-size: 70px;
+    margin-bottom: 70px;
+}
+
+h1, form , .todo-container {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.todo-input {
+  position: relative;
+  display: inline-block;
+}
+
+.todo-input button {
+    background-color: transparent;
+    border-color: transparent;
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 100%;
+}
+
+.fa-plus {
+  color: #658e5f; 
+}
+
+.fa-plus:hover {
+    color: #04a904;
+}
+
+.todo-select {
+    margin-left: 20px;
+}
+
+select {
+    height: 55px;
+}
+
+.todo-container {
+    margin-top: 80px;
+    font-size: 24px;
+}
+
+.todo {
+    margin-bottom: 30px;
+    width: 500px;
+    border-radius: 30px;
+    background-color: rgb(117, 201, 146);
+}
+
+
+
+
+  
